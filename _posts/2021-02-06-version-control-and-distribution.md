@@ -1,12 +1,10 @@
 ---
 title: Version control and distribution
-date: 2021-02-06 09:38:00
+date: 2021-02-06
 categories: etc
-tags: github, docker, solution
 ---
 
 # Version control and distribution
-
 
 ## Version control and deployment procedure
 
