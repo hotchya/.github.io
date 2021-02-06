@@ -4,8 +4,6 @@ date: 2021-02-06
 categories: etc
 ---
 
-# Version control and distribution
-
 ## Version control and deployment procedure
 
 ![1](https://user-images.githubusercontent.com/54389889/107114983-dad52f00-68ac-11eb-983f-dd4c8bd6abe9.png)
