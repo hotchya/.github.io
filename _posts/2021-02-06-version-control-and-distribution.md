@@ -1,5 +1,5 @@
 ---
-title: Version control and distribution
+title: "Version control and distribution"
 date: 2021-02-06
 categories: etc
 ---
