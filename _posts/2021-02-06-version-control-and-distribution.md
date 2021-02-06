@@ -1,9 +1,8 @@
 ---
 title: Version control and distribution
-description: github, dockerhub
 date: 2021-02-06 09:38:00
-categories: [etc]
-tags: [github, docker, solution]
+categories: etc
+tags: github, docker, solution
 ---
 
 # Version control and distribution
