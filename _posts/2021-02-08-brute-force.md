@@ -10,7 +10,7 @@ In cryptography, a brute-force attack means substituting all possible values ​
 
 In the case of symmetric key encryption (a type of encryption algorithm, which means an algorithm that uses the same encryption key for encryption and decryption), the encrypted information can be restored by finding the key used in the encryption, and the length of the key used here The maximum time required for a brute force attack is determined according to. When the encryption key is n bits, there are a maximum of 2^n possible values.
 
-</br>
+<br/>
 
 For example, we could use brutal force to solve the following problem.
 ```python
@@ -20,7 +20,7 @@ For example, we could use brutal force to solve the following problem.
 data = '6e5253491a5e5b4e5b1a53491a5b5649551a4c5f48431a53574a55484e5b544e1a4e5f424e1a5e5b4e5b141a6a565f5b495f1a4e5b515f1a595b485f1a4d525f541a525b545e5653545d14'
 ```
 
-</br>
+<br/>
 
 If you are implementing symmetric key encryption in Python, you can implement it like this:
 ```python
@@ -67,13 +67,13 @@ b'9ea2a3b9eaaeabbeabeaa3b9eabcafb8b3eaa3a7baa5b8beaba4beeabeafb2beeaaeabbeabe4ea
 This data is very important text data. Take care when handling.
 ```
 
-</br>
+<br/>
 
 More detailed code can be found through the following link.
 
 <https://github.com/hotchya/basic-algorithm/tree/main/symmetric%20key%20encryption>
 
-</br>
+<br/>
 
 
 ## References
