@@ -13,7 +13,7 @@ In the case of symmetric key encryption (a type of encryption algorithm, which m
 </br>
 
 For example, we could use brutal force to solve the following problem.
-```
+```python
 # You are a hecker. You have data that is encrypted by stealing the transmitted data, and you know that this data is in plain text.
 # You need to find out the original data and the secret key (8bits).
 
@@ -22,8 +22,8 @@ data = '6e5253491a5e5b4e5b1a53491a5b5649551a4c5f48431a53574a55484e5b544e1a4e5f42
 
 </br>
 
-Symmetric key cryptography can be implemented as follows.
-```
+If you are implementing symmetric key encryption in Python, you can implement it like this:
+```python
 import binascii
 
 def encoder(data:str, key:str) -> bytes:
