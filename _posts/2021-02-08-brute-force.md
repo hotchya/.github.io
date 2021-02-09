@@ -1,5 +1,5 @@
 ---
-title: "Brute force"
+title: "Brute force & Symmetric key encryption"
 date: 2021-02-08
 categories: algorithm
 ---
@@ -11,6 +11,9 @@ In cryptography, a brute-force attack means substituting all possible values ​
 In the case of symmetric key encryption (a type of encryption algorithm, which means an algorithm that uses the same encryption key for encryption and decryption), the encrypted information can be restored by finding the key used in the encryption, and the length of the key used here The maximum time required for a brute force attack is determined according to. When the encryption key is n bits, there are a maximum of 2^n possible values.
 
 <br/>
+
+## Breaking symmetric key encryption with brutal force
+
 
 For example, we could use brutal force to solve the following problem.
 ```python
