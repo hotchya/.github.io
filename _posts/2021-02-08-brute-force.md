@@ -12,10 +12,10 @@ In the case of symmetric key encryption (a type of encryption algorithm, which m
 
 <br/>
 
-## Breaking symmetric key encryption with brutal force
+## Breaking symmetric key encryption with brute force
 
 
-For example, we could use brutal force to solve the following problem.
+For example, we could use brute force to solve the following problem.
 ```python
 # You are a hecker. You have data that is encrypted by stealing the transmitted data, and you know that this data is in plain text.
 # You need to find out the original data and the secret key (8bits).
