@@ -71,7 +71,7 @@ This data is very important text data. Take care when handling.
 
 More detailed code can be found through the following link.
 
-<https://github.com/hotchya/basic-algorithm>
+<https://github.com/hotchya/basic-algorithm/tree/main/symmetric%20key%20encryption>
 
 </br>
 
