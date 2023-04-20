@@ -1,1 +1,0 @@
-# https://hotchya.github.io
